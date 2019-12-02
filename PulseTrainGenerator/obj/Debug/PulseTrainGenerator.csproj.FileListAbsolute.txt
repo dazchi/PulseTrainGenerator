@@ -1,0 +1,10 @@
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\bin\Debug\PulseTrainGenerator.exe.config
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\bin\Debug\PulseTrainGenerator.exe
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\bin\Debug\PulseTrainGenerator.pdb
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\obj\Debug\PulseTrainGenerator.csprojAssemblyReference.cache
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\obj\Debug\PulseTrainGenerator.Form1.resources
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\obj\Debug\PulseTrainGenerator.Properties.Resources.resources
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\obj\Debug\PulseTrainGenerator.csproj.GenerateResource.cache
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\obj\Debug\PulseTrainGenerator.csproj.CoreCompileInputs.cache
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\obj\Debug\PulseTrainGenerator.exe
+D:\Lab\Csharp\PulseTrainGenerator\PulseTrainGenerator\obj\Debug\PulseTrainGenerator.pdb
